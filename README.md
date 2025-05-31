@@ -1,4 +1,4 @@
 # ts
 TS Rewamp
 <br>
-Author - Jyoti Itagoni
+Author - Jyoti VI
